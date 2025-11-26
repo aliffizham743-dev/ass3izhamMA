@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "189728044408",
+    "firebase_url": "https://assessment-3-izham-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "assessment-3-izham",
+    "storage_bucket": "assessment-3-izham.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189728044408:android:53d65349dff4492b4e448d",
+        "android_client_info": {
+          "package_name": "com.example.ass_3_ma_izham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqbUOf4WHbd3XhCifuCSrwlEZEgbMJeuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189728044408:android:46013d077a75a3d14e448d",
+        "android_client_info": {
+          "package_name": "com.example.ma_izham_ass3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqbUOf4WHbd3XhCifuCSrwlEZEgbMJeuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
